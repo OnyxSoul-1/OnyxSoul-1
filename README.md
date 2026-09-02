@@ -77,7 +77,7 @@ Same vision. Same hunger.
 | 2 | Team Member 2 | — |
 | 3 | Team Member 3 | — |
 | 4 | Team Member 4 | — |
-| 5 | Team Member 5 | — |
+| 5 | Rotato | — |
 
 ---
 
