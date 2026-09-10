@@ -75,7 +75,7 @@ Same vision. Same hunger.
 | 1 | Team Member 1 | — |
 | 2 | Team Member 2 | — |
 | 3 | Team Member 3 | — |
-| 4 | Team Member 4 | — |
+| 4 | fih-21 | — |
 | 5 | Rotatocat | — |
 
 ---
